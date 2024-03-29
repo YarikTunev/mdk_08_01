@@ -1,0 +1,75 @@
+div,p,a{
+    font-size: 16px;
+}
+.vhod{
+    padding-bottom: 10px;
+    align-items: center;
+    display: block;
+    position: absolute;
+    right: 0;
+}
+header{
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: rgb(23, 3, 43);
+}
+.nav_class{
+    background: darkorchid;
+    padding: 1%;
+    display: flex;
+}
+nav a{
+    margin-right: 10px;
+}
+.p1{
+    text-align: center;
+}
+body{
+    background: #5c11be;
+    margin: 0 auto;
+}
+p,h2,.date,.article-text, h1,h4,h3,.bok {
+    color: #FFEFDF;
+}
+.p2{
+    text-indent: 1%;
+}
+.p3{
+    line-height: 20px;
+}
+.p4{
+    vertical-align: 10px;
+}
+.p5{
+    word-spacing: 10px;
+}
+.p6{
+    letter-spacing: 5px;
+}
+.p7{
+    white-space: pre-line;
+}
+.p8{
+    tab-size: 16;
+}
+.p9{text-transform: capitalize;}
+.p10{direction: ltr;}
+#id1{unicode-bidi: bidi-override;}
+#id2{text-decoration: underline;}
+#id3{
+    font-size: 2em;
+    margin-right: 2px; 
+    color: #EE9966;
+    font-weight: bold;
+    text-shadow: -1px -1px 1px white, 1px 1px 1px #9E9D99;
+  }
+#id4{font-family: "Times New Roman", Georgia, Serif;}
+#id5{font-style: italic;}
+#id6{font-variant: small-caps;}
+#id7{font-weight: lighter;}
+#id8{font-size: 20px;}
+#id9{color: rgb(0%,0%,100%);}
+#id10{font: italic bold 14px/1.5 Times, 'New Century Schoolbook', serif;}
+#id11{quotes:'«' '»';}
