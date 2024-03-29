@@ -1,0 +1,40 @@
+.block1, .block2, .block3, header{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+img,p{
+    padding: 5px;
+}
+div a{
+    text-align: right;
+    margin: 0;
+}
+h2{
+    padding: 5px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline-block;
+}
+li a:hover{
+    background: white;
+    color: black;
+}
+ul{
+    background:  orange;
+}
+li,li a{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+}
