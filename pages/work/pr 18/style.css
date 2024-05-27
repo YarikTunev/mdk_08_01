@@ -9,6 +9,7 @@
     display: flex;
 }
 nav a{
+    color: black;
     margin-right: 10px;
     text-decoration: none;
 }
@@ -98,4 +99,8 @@ main{
 }
 .text3{
     margin-top: 3px;
+}
+footer {
+    padding: 20px; 
+    text-align: center; 
 }
