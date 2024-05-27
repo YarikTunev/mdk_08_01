@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: rgb(23, 3, 43);
+}
+.nav_class{
+    background: darkorchid;
+    padding: 1%;
+    display: flex;
+}
+nav a{
+    margin-right: 10px;
+}
+body{
+    background: #5c11be;
+    margin: 0 auto;
+}
+header{
+    margin: 0 auto;
+}
+
+div,p,a{
+    font-size: 16px;
+}
+main a{
+    color: white;
+}

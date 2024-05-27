@@ -1,0 +1,65 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+   
+}
+main
+{
+    margin: 0 auto;
+    width: 1312px;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 24px;
+}
+hr{
+    margin: 10px;
+}
+.cats{
+    display: grid;
+    grid-template-columns: repeat(3, 500px);
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.img1 {
+    grid-column: 1;
+    grid-row: 1 / 3;
+    width: 491px;
+    height: 643px;
+}
+.img2{
+    padding: 10px;
+    max-width: 480px;
+    max-height: 300px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+h1{
+    font-size: 50px;
+    margin: 30px;
+    text-align: center;
+}
+p{
+    color: #000;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-size: 24px;
+}
+footer{
+    margin: 10px;
+    color: gray;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
